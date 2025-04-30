@@ -1,4 +1,4 @@
-STATION,LATITUDE,LONGTUDE,Dk11 rf
+STATION,LATITUDE,LONGTUDE,Dk11_rf
 Kakamega,0.28,34.75,115.8
 Kisii,-0.68,34.8,125.6
 Kisumu,-0.1,34.75,116.1
@@ -37,3 +37,4 @@ Kangema,-0.68,36.96,230.6
 Laikipia,0.05,37.03,58.9
 Kitui,-1.38,38,46.3
 Matungu,0.4,34.47,132.12
+Silas,-4,34,50
